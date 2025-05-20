@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on myblog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on myblog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 May 2025 23:42:46 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articles01</title>
+      <link>http://localhost:1313/posts/articles01/</link>
+      <pubDate>Tue, 20 May 2025 23:42:46 +0800</pubDate>
+      <guid>http://localhost:1313/posts/articles01/</guid>
+      <description>&lt;h1 id=&#34;dscj的第一篇博客&#34;&gt;DSCJ的第一篇博客&lt;/h1&gt;&#xA;&lt;p&gt;这是我的网站myblog中的第一篇文章！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
